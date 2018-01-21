@@ -1,0 +1,403 @@
+TRADEMARK AND DOMAIN NAME AGREEMENT 
+
+This agreement (the “Agreement”) is by and between ____________________________ 
+
+ 
+ 
+(“Party”) and Eclipse Foundation, Inc. (“Eclipse”) and is effective as of [______] [_____],  
+201[__] (the “Effective Date”). 
+ 
+
+WHEREAS, Party is the owner of certain trademarks identified in Exhibit A (the 
+
+“Trademarks”) and of certain domain names identified in Exhibit A (the “Domain Names”); 
+
+ 
+WHEREAS, Party is desirous of Eclipse to initiate a project or working group with a 
+
+name based on the Trademark (the “Project Initiation”); 
+
+ 
+WHEREAS, to accommodate the Project Initiation, Party desires to transfer all of Party’s 
+
+rights, title and interest in and to the Trademarks to Eclipse and to thereafter have certain 
+continuing usage rights of the Trademarks; 
+
+ 
+WHEREAS, to accommodate the Project Initiation, the Parties may mutually agree to 
+have any related Domain Names initially redirect to a URL designated by Eclipse and that the 
+Domain Names are subsequently transferred to Eclipse; 
+
+ 
+In consideration of the foregoing and for other good and valuable consideration, the 
+
+receipt and sufficiency of which is hereby acknowledged, the parties agree as follows: 
+
+ 
+1. 
+
+Trademark Assignment.  Party irrevocably assigns, grants and transfers to 
+
+Eclipse, all of Party’s right, title, and interest in and to the Trademarks, including all common 
+law rights, and any trademark registrations and applications, along with the goodwill of the 
+business symbolized by use of the Trademarks, and the right to sue third parties for and recover 
+damages from future infringement of the Trademarks, the same to be held and enjoyed by 
+Eclipse for its own use and enjoyment and the use and enjoyment of its successors, assigns or 
+other legal representatives, as fully and entirely as the same would have been held and enjoyed 
+by Party if this assignment had not been made (the “Assignment”).   
+
+To the extent that Party is seeking to perfect the ownership of the Trademarks and 
+
+Party’s ownership of the Trademarks has not been perfected by the Effective Date, Party agrees 
+to promptly assign ownership of the Trademarks to Eclipse, in accordance with the terms of this 
+Agreement, as soon as such ownership has been perfected.  Party further agrees to take all steps 
+necessary to promptly expedite any perfection of their ownership in and to the Trademarks.   
+Party hereby authorizes the Commissioner of Patents and Trademarks of the United States, and 
+any official of any other country empowered to issue trademark registrations, to record this 
+Assignment, and to issue or transfer said Trademarks to Eclipse as owner of all right, title and 
+interest therein, or otherwise as Eclipse may direct, in accordance with the terms of the 
+Assignment. 
+
+2. 
+
+Trademark Usage.  Eclipse hereby confirms that Party shall have all applicable 
+rights  to use the Trademarks in accordance with the then current version of the Guidelines for 
+Eclipse Logo and Trademarks currently available at: 
+
+ 
+
+Page 1 of 5 
+
+http://www.eclipse.org/legal/logo_guidelines.php, as may be amended from time to time  (the 
+“Trademark Guidelines”).  
+
+3. 
+
+Domain Names.  Upon the mutual agreement of the Parties, as of the date Eclipse 
+
+formally approves the Project (the “Project Effective Date”), Party shall cause any related 
+Domain Names (including all sub-domains and related URLs) to redirect directly to the URLs 
+designated by Eclipse with no interstitial content.  Within ten (10) days of the Project Effective 
+Date, Party shall transfer to Eclipse Party’s entire right, title and interest to the Domain Names.   
+
+4. 
+
+Execution and Delivery.  Upon Eclipse’s request, Party agrees that it will take 
+such actions and execute such documents (including, without limitation, the prompt execution 
+and delivery of documents in recordable form or testifying as to any material fact or thing and 
+including the transfer of any domain names through appropriate communications with domain 
+name registrars) as may be necessary to vest in and secure unto Eclipse the full right, title and 
+interest in and to the Trademarks and Domain Names and to protect and enforce the Trademarks. 
+
+5. 
+
+Representations and Warranties.  Party represents and warrants that Party has the 
+full right to convey the entire right, title and interest herein assigned, and that Party will not take 
+any action, use any trademark or domain name, or execute any instrument or grant or transfer 
+any rights, title or interests inconsistent with the rights, title and interests assigned herein. 
+
+6. 
+
+Warranty Disclaimer.  PARTY MAKES NO WARRANTIES, EXPRESS OR 
+
+IMPLIED, TO ANY PERSON OR ENTITY WITH RESPECT TO THE TRADEMARKS OR 
+ANY RELATED MATERIALS PROVIDED HEREUNDER, ALL OF WHICH ARE 
+PROVIDED "AS IS," AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING 
+WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. 
+
+7. 
+
+Limitation of Liability.  IN NO EVENT WILL EITHER PARTY BE LIABLE 
+
+FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING FROM 
+OR RELATED TO THE USE OF THE TRADEMARKS, EVEN IF ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.   
+
+8. 
+
+Miscellaneous. 
+
+a. 
+
+b. 
+
+c. 
+
+Independent Contractors.  The parties hereto are independent contractors 
+and are not partners, joint venturers or otherwise affiliated, and neither 
+party has any right or authority to bind the other in any way. 
+
+Assignment.  Eclipse may not assign this Agreement or any of its rights or 
+obligations under this Agreement without the prior written consent of 
+Party. 
+
+Notices.  All notices, requests, demands and other communications 
+required or permitted to be given under this Agreement shall be in writing 
+and shall be deemed to have been duly given only if personally delivered, 
+delivered by a major commercial rapid delivery courier service with 
+tracking capabilities, costs prepaid, or mailed by certified or registered 
+
+ 
+
+Page 2 of 5 
+
+If to Party: 
+ 
+ 
+
+ 
+ 
+
+If to Eclipse: 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+mail, return receipt requested, postage prepaid, to a party at the address set 
+forth below or such other address as a party last provided to the other by 
+written notice: 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+___________________________ 
+___________________________ 
+___________________________ 
+
+Eclipse Foundation, Inc. 
+102 Centrepointe Drive 
+Ottawa, Ontario 
+Canada, K2G 6B1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Modification and Waiver.  The failure of either party to enforce its rights 
+or to require performance by the other party of any term or condition of 
+this Agreement shall not be construed as a waiver of such rights or of its 
+right to require future performance of that term or condition.  Any 
+amendment or modification of this Agreement or any waiver of any 
+breach of any term or condition of this Agreement must be in a writing 
+signed by both parties in order to be effective and shall not be construed as 
+a waiver of any continuing or succeeding breach of such term or 
+condition, a waiver of the term or condition itself or a waiver of any right 
+under this Agreement. 
+
+Governing Law.  This Agreement shall be governed and interpreted under 
+the laws of the State of New York without regard to the conflicts of law 
+provisions thereof. 
+
+Headings.  Headings and captions are for convenience of reference only 
+and shall not be deemed to interpret, supersede or modify any provisions 
+of this Agreement. 
+
+Severability.  In the event that any provision of this Agreement shall be 
+determined by a court of competent jurisdiction to be illegal or 
+unenforceable, that provision will be limited or eliminated to the minimum 
+extent necessary so that this Agreement shall otherwise remain in full 
+force and effect and enforceable. 
+
+Entire Agreement.  Upon execution by both parties, this Agreement shall 
+constitute the entire agreement between the parties with respect to the 
+subject matter hereof and supersedes all discussions, negotiations, 
+agreements and past dealings, either oral or written, between or among the 
+parties relating to the subject matter hereof. 
+
+Page 3 of 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+i. 
+
+Non-Exclusive Remedies.  The rights and remedies of a party set forth 
+herein are not exclusive, the exercise thereof shall not constitute an 
+election of remedies and the aggrieved party shall in all events be entitled 
+to seek whatever additional remedies may be available in law or in equity. 
+
+ 
+Each party represents and warrants that it has full right, power and authority to enter into this 
+Agreement and perform all of its obligations hereunder. 
+ 
+IN WITNESS WHEREOF, the parties hereto have each caused this Agreement to be executed by 
+their authorized representatives. 
+ 
+COMPANY NAME:  ____________________  
+ 
+Dated: _________________________ 
+ 
+                                                                                       Name: __________________________ 
+ 
+                                                                                         Title: __________________________ 
+ 
+ 
+ECLIPSE FOUNDATION, INC. 
+ 
+Dated: __________________________ 
+ 
+                                                                                        Name: __________________________ 
+ 
+                                                                                          Title: __________________________ 
+ 
+
+ Signature: __________________________ 
+
+ Signature: __________________________ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 4 of 5 
+
+Exhibit A 
+
+1. 
+
+Trademarks: 
+
+Registered 
+
+Mark 
+
+Serial No. 
+
+Filing Date 
+
+Reg. No. 
+
+Jurisdiction 
+of 
+Registration 
+
+Reg. Date. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Unregistered 
+
+[List all trademarks] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. 
+
+Domain Names: 
+
+[List Domain Names to be transferred (if any)] 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page 5 of 5 
+
+
